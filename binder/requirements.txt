@@ -1,7 +1,0 @@
-numpy
-pandas==0.25.3
-matplotlib
-ipywidgets
-ipyfilechooser
-jupyter_contrib_nbextensions
-rpy2
